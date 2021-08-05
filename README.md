@@ -80,7 +80,7 @@ $ code .
   
 Ou poderá acessa-lo diretamente na hospetagem do meu repositório no GitPage [Controle de Despesas JavaScript](https://cristianodasilvaferreira.github.io/controle-de-despesas-javascript/)
 
-[Vídeo-Desmostrativo](https://github.com/CristianoDaSilvaFerreira/controle-de-despesas-javascript/blob/main/expensedemo.gif)
+![Vídeo-Desmostrativo](https://github.com/CristianoDaSilvaFerreira/controle-de-despesas-javascript/blob/main/expensedemo.gif)
 
 ![image](https://user-images.githubusercontent.com/68359459/128270251-f4050d70-c53d-4c98-9ef3-73b7c52d6206.png)
   
