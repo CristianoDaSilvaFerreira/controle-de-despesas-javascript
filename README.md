@@ -65,7 +65,7 @@ Para pode começar a usa-lo, poderá fazer de duas formas diferentes
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/CristianoDaSilvaFerreira/controle-de-despesas-javascript.git>
+$ git clone https://github.com/CristianoDaSilvaFerreira/controle-de-despesas-javascript.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd controle-de-despesas-javascript
